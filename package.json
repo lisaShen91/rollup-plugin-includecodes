@@ -1,13 +1,13 @@
 {
   "name": "rollup-plugin-includecodes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "include codes",
   "keywords": [
     "rollup",
     "rollup-plugin"
   ],
   "author": "shenlisha",
-  "homepage": "",
+  "homepage": "https://github.com/lisaShen91/rollup-plugin-includecodes.git",
   "license": "ISC",
   "main": "lib/include.js",
   "directories": {
